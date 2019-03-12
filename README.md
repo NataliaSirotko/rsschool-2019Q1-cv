@@ -1,2 +1,3 @@
 # rsschool-2019Q1-cv
-Task "Markdown &amp; Git"
+
+https://nataliasirotko.github.io/rsschool-2019Q1-cv/
